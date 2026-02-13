@@ -1,3 +1,6 @@
 [submodule "pymavlink"]
 	path = pymavlink
 	url = https://github.com/ardupilot/pymavlink.git
+[submodule "message_definitions"]
+	path = message_definitions
+	url = https://github.com/mbakcan211/algan_message_definitions.git
